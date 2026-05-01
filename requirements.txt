@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imblearn
+mlflow
+shap
+fastapi
+pydantic
+scipy
+matplotlib
